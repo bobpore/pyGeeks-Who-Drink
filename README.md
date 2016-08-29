@@ -6,19 +6,19 @@ Py-Geeks Who Drink is a python module that contains 4 functions that can be used
 The main function is get_quiz_results(). get_quiz_results takes a venue id and a quiz id and returns a list of dictionaries of the quiz results. 
 
 The information returned is:
-Team Name
-Score
-Rank
-Venue Name
-Quiz Date
-Rank
-Venue Address
-Venue City
-Venue Zipcode
-Venue Start Time
-Venue Day
-Quiz ID
-Venue ID
+Team Name  
+Score  
+Rank  
+Venue Name  
+Quiz Date  
+Rank  
+Venue Address  
+Venue City  
+Venue Zipcode  
+Venue Start Time  
+Venue Day  
+Quiz ID  
+Venue ID  
 
 get_venue_quiz_ids() returns a list of quiz ids for the provided venue id. As many quiz ids as can be found on the Geeks Who Drink website will be returned.
 
