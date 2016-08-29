@@ -11,7 +11,6 @@ Score
 Rank  
 Venue Name  
 Quiz Date  
-Rank  
 Venue Address  
 Venue City  
 Venue Zipcode  
